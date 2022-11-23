@@ -6,3 +6,4 @@ ubah elemen ke 4 sampai dengan elemen terakhir
 tambah elemen list:
 ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)
 tambah list B dengan nilai string
+a b c d e3n,wbfjkq
